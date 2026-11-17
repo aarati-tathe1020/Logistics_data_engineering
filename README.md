@@ -1,12 +1,12 @@
 ### Logistics Data Engineering Project – Microsoft Fabric
 
-###📌 Project Overview
+### 📌 Project Overview
 
 This project showcases an end-to-end Logistics Data Engineering solution developed using **Microsoft Fabric**. It demonstrates how raw logistics data can be ingested, processed, transformed, and structured into analytics-ready datasets using the **Medallion Architecture (Bronze, Silver, and Gold)**.
 
 The solution uses Microsoft Fabric Lakehouses, Notebooks, Pipelines, and Warehouse components to implement a structured data processing workflow.
 
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Ingest raw logistics data into the Bronze layer.
 - Clean, validate, and transform data in the Silver layer.
@@ -14,7 +14,7 @@ The solution uses Microsoft Fabric Lakehouses, Notebooks, Pipelines, and Warehou
 - Implement an organized and scalable data processing workflow.
 - Leverage Microsoft Fabric notebooks and pipelines for data transformation and orchestration.
 
-## 🏗️ Project Architecture
+### 🏗️ Project Architecture
 
 The solution follows the **Medallion Architecture**, separating data processing into three layers:
 
