@@ -84,7 +84,7 @@ flowchart LR
 
 ![Pipelines Overview](screenshots/pipeline-overview.png)
 
-### 4. Bronze Layer – Raw Data
+### 4. Bronze Layer 
 
 **Account Table**
 
@@ -94,7 +94,7 @@ flowchart LR
 
 ![Bronze Equipment](screenshots/bronze-equipment.png)
 
-### 5. Silver Layer – Cleansed Data
+### 5. Silver Layer 
 
 **Account Table**
 
@@ -104,7 +104,7 @@ flowchart LR
 
 ![Silver Equipment](screenshots/silver-equipment.png)
 
-### 6. Gold Layer – Analytics-Ready Data
+### 6. Gold Layer 
 
 **Dimension Table – DIM_ACCOUNT_DETAILS**
 
