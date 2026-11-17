@@ -74,7 +74,7 @@ flowchart LR
 
 ### 1. Workspace Overview
 
-(screenshots/workspace-overview.png)
+![Workspace Overview](screenshots/workspace-overview.png)
 
 ### 2. Notebooks Overview
 
