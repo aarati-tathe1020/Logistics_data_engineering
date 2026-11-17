@@ -162,11 +162,9 @@ Through this project, I gained practical experience in:
 - Understanding end-to-end data engineering workflows.
 
 
-  👩‍💻 Author
+👩‍💻 Author
 
 Aarati Tathe
 
 [LinkedIn Profile](https://www.linkedin.com/in/aarati-tathe-7549b7263/)
-
----
 
