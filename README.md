@@ -166,7 +166,7 @@ Through this project, I gained practical experience in:
 
 Aarati Tathe
 
-[LinkedIn Profile](linkedin.com/in/aarati-tathe-7549b7263)
+[LinkedIn Profile](https://www.linkedin.com/in/aarati-tathe-7549b7263/)
 
 ---
 
