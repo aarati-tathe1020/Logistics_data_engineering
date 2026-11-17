@@ -72,12 +72,9 @@ flowchart LR
 
 ## 📸 Project Screenshots
 
-The following screenshots illustrate the workspace setup, processing components, and data outputs across the Medallion Architecture.
-
 ### 1. Workspace Overview
 
-![Workspace Overview](screenshots/workspace-overview.png
-)
+(screenshots/workspace-overview.png)
 
 ### 2. Notebooks Overview
 
