@@ -76,7 +76,8 @@ The following screenshots illustrate the workspace setup, processing components,
 
 ### 1. Workspace Overview
 
-![Workspace Overview](screenshots/workspace-overview.png)
+![Workspace Overview](screenshots/workspace-overview.png
+)
 
 ### 2. Notebooks Overview
 
