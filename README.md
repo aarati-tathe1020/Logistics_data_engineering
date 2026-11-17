@@ -42,7 +42,7 @@ flowchart LR
 - **Silver Layer:** Performs data cleansing, column mapping, null handling, and data type conversions to improve data quality.
 - **Gold Layer:** Organizes processed data into dimension and fact tables to support analytical reporting and business insights.
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 - Microsoft Fabric
 - PySpark
@@ -53,7 +53,7 @@ flowchart LR
 - Fabric Data Pipelines
 - Medallion Architecture
 
-## 🔄 Implementation Workflow
+### 🔄 Implementation Workflow
 
 1. Set up the Microsoft Fabric workspace and required project components.
 2. Created configuration tables to manage source objects and ingestion requirements.
@@ -62,7 +62,7 @@ flowchart LR
 5. Created and populated Gold dimension and fact tables.
 6. Organized the end-to-end data processing workflow using Fabric notebooks and pipelines.
 
-## 📊 Data Objects
+### 📊 Data Objects
 
 | Layer | Data Objects |
 |---|---|
@@ -70,7 +70,7 @@ flowchart LR
 | Silver | Account, Equipment |
 | Gold | DIM_ACCOUNT_DETAILS, FACT_EQUIPMENT |
 
-## 📸 Project Screenshots
+### 📸 Project Screenshots
 
 ### 1. Workspace Overview
 
@@ -114,7 +114,7 @@ flowchart LR
 
 ![Gold Equipment](screenshots/gold-equipment.png)
 
-## 📈 Project Output Summary
+### 📈 Project Output Summary
 
 The following table summarizes the record counts across the three processing layers.
 
@@ -124,7 +124,7 @@ The following table summarizes the record counts across the three processing lay
 | Silver | 30 | 113 |
 | Gold | 30 | 113 |
 
-## 📁 Repository Structure
+### 📁 Repository Structure
 
 ```text
 Logistics_Project/
@@ -149,7 +149,7 @@ Logistics_Project/
     └── DW/
 ```
 
-## 🎓 Key Learnings
+### 🎓 Key Learnings
 
 Through this project, I gained practical experience in:
 
